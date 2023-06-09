@@ -1,6 +1,6 @@
 +++
-title = "Code Noir Image Gallery"
+title = "Rust and Things blog"
 sort_by = "date"
-template = "gallery.html"
-page_template = "gallery-page.html"
+template = "blog.html"
+page_template = "blog-page.html"
 +++
